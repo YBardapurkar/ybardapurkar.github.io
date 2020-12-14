@@ -131,7 +131,7 @@ a.dotted-link:hover {
   margin-right: 30px;
   border-radius: 50%;
   height: 200px;
-  width: 200px;
+  width: auto;
 }
 
 .header .profile-content .name {
@@ -335,6 +335,11 @@ a.dotted-link:hover {
 
 .projects .item .title a:hover {
   color: #5f6b77;
+}
+
+.projects .item .project-image {
+  height: 200px;
+  width: auto;
 }
 
 /* Work Section */
@@ -650,7 +655,7 @@ a.dotted-link:hover {
     float: none !important;
     border-radius: 50%;
     height: 200px;
-    width: 200px;
+    width: auto;
     margin: 0 auto;
   }
   .header .profile-content {
