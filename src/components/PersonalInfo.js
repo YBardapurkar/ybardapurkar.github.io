@@ -14,7 +14,7 @@ class PersonalInfo extends Component {
                     <div className="content">
                         <ul className="list-unstyled">
                             <li><FaMapMarkerAlt class="icon" /><span className="sr-only">Location:</span>Arlington, TX</li>
-                            <li><FaEnvelope class="icon"/><span className="sr-only">Email:</span><a href="#">ybardapurkar@gmail.com</a></li>
+                            <li><FaEnvelope class="icon"/><span className="sr-only">Email:</span><a href="mailto:ybardapurkar@gmail.com">ybardapurkar@gmail.com</a></li>
                         </ul>
                     </div>
                 </div>

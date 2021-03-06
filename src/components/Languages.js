@@ -17,11 +17,11 @@ class Languages extends Component {
                                     <span class="title"><strong>English: </strong></span>
                                     <span class="level">Professional 
                                         <br class="visible-xs"/>
+                                        {/* <FaStar className="icon" />
                                         <FaStar className="icon" />
                                         <FaStar className="icon" />
                                         <FaStar className="icon" />
-                                        <FaStar className="icon" />
-                                        <FaStarHalfAlt className="icon" />
+                                        <FaStarHalfAlt className="icon" /> */}
                                     </span>
                                 </li>
                                 <li class="item">
@@ -29,23 +29,23 @@ class Languages extends Component {
                                     <span class="title"><strong>Hindi: </strong></span>
                                     <span class="level">Native 
                                         <br class="visible-sm visible-xs"/>
+                                        {/* <FaStar className="icon" />
                                         <FaStar className="icon" />
                                         <FaStar className="icon" />
                                         <FaStar className="icon" />
-                                        <FaStar className="icon" />
-                                        <FaRegStar className="icon" />
+                                        <FaRegStar className="icon" /> */}
                                     </span>
                                 </li>
                                 <li class="item">
                                 <hr />
                                     <span class="title"><strong>Marathi: </strong></span>
                                     <span class="level">Native 
-                                        <br class="visible-sm visible-xs"/>
+                                        {/* <br class="visible-sm visible-xs"/>
                                         <FaStar className="icon" />
                                         <FaStar className="icon" />
                                         <FaStar className="icon" />
                                         <FaStar className="icon" />
-                                        <FaRegStar className="icon" />
+                                        <FaRegStar className="icon" /> */}
                                     </span>
                                 </li>
                             </ul>

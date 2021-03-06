@@ -23,7 +23,7 @@ class Skills extends Component {
                             <div className="item">
                                 <hr />
                                 Frameworks
-                                <h3 className="level-title">CodeIgniter (PHP), Flask (Python), Spring MVC (Java)</h3>
+                                <h3 className="level-title">React, CodeIgniter (PHP), Flask (Python), Spring MVC (Java)</h3>
                             </div>
                             <div className="item">
                                 <hr />
