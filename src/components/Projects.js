@@ -20,7 +20,7 @@ class Projects extends Component {
 										<img className="img-fluid project-image" src="./projects/project-campuscarrental.png" alt="project name" />
 									</a>
 									<div className="desc col-md-8 col-12">
-										<h3 className="title">CampusCarRental</h3>
+										<h3 className="title">CampusCarRental Android Application</h3>
 										<p className="mb-2">Class project made for the course CSE-5324-001 - Software Engineering I</p>
 										<p className="mb-2">Android Application for a Car Rental Android application for students</p>
 										<p class="links">
@@ -48,13 +48,12 @@ class Projects extends Component {
 									</a>
 									<div className="desc col-md-8 col-12">
 										<h3 className="title">Data Mining Project - Movie Search and Classifier</h3>
-										<p className="mb-2">Movie Search Engine, Movie Classifier by genre based on description, and Image Captioning and Search. Datasets used are MovieLens dataset and MS-COCO 2014 dataset. Application was created using Python and Flask, and hosted on PythonAnywhere.
-												<ul>
-												<li>Movie Search Engine</li>
-												<li>Movie Classification</li>
-												<li>Image Search and Captioning</li>
-											</ul>
-										</p>
+										<p className="mb-2">Movie Search Engine, Movie Classifier by genre based on description, and Image Captioning and Search. Datasets used are MovieLens dataset and MS-COCO 2014 dataset. Application was created using Python and Flask, and hosted on PythonAnywhere.</p>
+										<ul className="mb-2">
+											<li>Movie Search Engine</li>
+											<li>Movie Classification</li>
+											<li>Image Search and Captioning</li>
+										</ul>
 										<p class="links">
 											<span className="level-label" data-toggle="tooltip" data-placement="top" data-animation="true" title="Demo">
 												<a className="more-link" href="https://ybardapurkar.pythonanywhere.com/" target="_blank">
@@ -114,12 +113,11 @@ class Projects extends Component {
 									</a>
 									<div className="desc col-md-8 col-12">
 										<h3 className="title">HITCH Android Application</h3>
-										<p className="mb-2">'Hitch' is a Bluetooth based tag, which can be tracked using an Android application.
-											<ul>
-												<li>Create the initial user interface of the Android application to register 'Hitch' devices</li>
-												<li>Create tracking algorithms to keep track of device location and signal strength, and create alerts accordingly</li>
-											</ul>
-										</p>
+										<p className="mb-2">'Hitch' is a Bluetooth based tag, which can be tracked using an Android application.</p>
+										<ul className="mb-2">
+											<li>Create the initial user interface of the Android application to register 'Hitch' devices</li>
+											<li>Create tracking algorithms to keep track of device location and signal strength, and create alerts accordingly</li>
+										</ul>
 									</div>
 								</div>
                             </div>

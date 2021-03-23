@@ -16,12 +16,18 @@ class Education extends Component {
                         <div className="item">
                             <hr />
                             <h3 className="title"><FaGraduationCap className="icon" /> MS - Computer Science</h3>
-                            <h4 className="university"><a href="https://www.uta.edu/" target="_blank">University of Texas at Arlington</a> <span className="year">(2019-Present)</span></h4>
+                            <h4 className="university">
+                                <a href="https://www.uta.edu/" target="_blank">University of Texas at Arlington</a> 
+                                <span className="year"> (2019 - Present)</span>
+                            </h4>
                         </div>
                         <div className="item">
                             <hr />
                             <h3 className="title"><FaGraduationCap className="icon" /> BE (Hons) - Electronics and Instrumentation</h3>
-                            <h4 className="university"><a href="https://www.bits-pilani.ac.in/goa/" target="_blank">Birla Institute of Technology and Science, Pilani - K K Birla Goa Campus</a> <span className="year">(2012-2016)</span></h4>
+                            <h4 className="university">
+                                <a href="https://www.bits-pilani.ac.in/goa/" target="_blank">Birla Institute of Technology and Science, Pilani - K K Birla Goa Campus</a> 
+                                <span className="year"> (2012 - 2016)</span>
+                            </h4>
                         </div>
                     </div>
                 </div>

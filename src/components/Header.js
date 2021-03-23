@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
+import { FaGithub, FaLinkedinIn, FaRegEnvelope } from 'react-icons/fa';
 import './Header.css'
 import '../sections.css'
 
@@ -28,7 +28,14 @@ class Header extends Component {
                                         <FaGithub />
                                     </a>
                                 </span>
-                            </li>              
+                            </li>
+                            <li className="list-inline-item">
+                                <span className="level-label" data-toggle="tooltip" data-placement="top" data-animation="true" title="GitHub">
+                                    <a href="mailto:ybardapurkar@gmail.com" target="_blank" rel="noopener noreferrer">
+                                        <FaRegEnvelope />
+                                    </a>
+                                </span>
+                            </li>
                         </ul> 
                     </div>
                 </div>

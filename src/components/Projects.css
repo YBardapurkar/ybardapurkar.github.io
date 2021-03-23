@@ -22,6 +22,10 @@
   width: auto;
 }
 
+.projects .item .mb-2 {
+  font-size: 15px;
+}
+
 .projects .item .links span {
   margin-right: 10px;
 }

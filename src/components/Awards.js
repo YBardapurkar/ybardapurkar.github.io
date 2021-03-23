@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { FaStar, FaStarHalfAlt, FaRegStar } from 'react-icons/fa';
 import './Awards.css'
 import '../sections.css'
 
