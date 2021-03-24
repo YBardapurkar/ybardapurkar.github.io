@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { FaStar, FaStarHalfAlt, FaRegStar } from 'react-icons/fa';
+// import { FaStar, FaStarHalfAlt, FaRegStar } from 'react-icons/fa';
 import './Languages.css'
 import '../sections.css'
 
@@ -7,16 +7,16 @@ class Languages extends Component {
 
     render() {
         return (
-            <aside class="languages aside section">
-                    <div class="section-inner shadow-sm rounded">
-                        <h2 class="heading">Languages</h2>
-                        <div class="content">
-                            <ul class="list-unstyled">
-                                <li class="item">
+            <aside className="languages aside section">
+                    <div className="section-inner shadow-sm rounded">
+                        <h2 className="heading">Languages</h2>
+                        <div className="content">
+                            <ul className="list-unstyled">
+                                <li className="item">
                                 <hr />
-                                    <span class="title"><strong>English: </strong></span>
-                                    <span class="level">Professional 
-                                        <br class="visible-xs"/>
+                                    <span className="title"><strong>English: </strong></span>
+                                    <span className="level">Professional 
+                                        <br className="visible-xs"/>
                                         {/* <FaStar className="icon" />
                                         <FaStar className="icon" />
                                         <FaStar className="icon" />
@@ -24,11 +24,11 @@ class Languages extends Component {
                                         <FaStarHalfAlt className="icon" /> */}
                                     </span>
                                 </li>
-                                <li class="item">
+                                <li className="item">
                                 <hr />
-                                    <span class="title"><strong>Hindi: </strong></span>
-                                    <span class="level">Native 
-                                        <br class="visible-sm visible-xs"/>
+                                    <span className="title"><strong>Hindi: </strong></span>
+                                    <span className="level">Native 
+                                        <br className="visible-sm visible-xs"/>
                                         {/* <FaStar className="icon" />
                                         <FaStar className="icon" />
                                         <FaStar className="icon" />
@@ -36,11 +36,11 @@ class Languages extends Component {
                                         <FaRegStar className="icon" /> */}
                                     </span>
                                 </li>
-                                <li class="item">
+                                <li className="item">
                                 <hr />
-                                    <span class="title"><strong>Marathi: </strong></span>
-                                    <span class="level">Native 
-                                        {/* <br class="visible-sm visible-xs"/>
+                                    <span className="title"><strong>Marathi: </strong></span>
+                                    <span className="level">Native 
+                                        {/* <br className="visible-sm visible-xs"/>
                                         <FaStar className="icon" />
                                         <FaStar className="icon" />
                                         <FaStar className="icon" />

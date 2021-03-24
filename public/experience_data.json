@@ -1,0 +1,29 @@
+[
+    {
+        "id": 0,
+        "job_title": "Software Developer Intern",
+        "company_name": "Garg WebTech Pvt Ltd",
+        "company_location": "Bengaluru, India",
+        "company_url": "https://gargwebtech.com/",
+        "start_date": "Jul 2015",
+        "end_date": "Dec 2015",
+        "description": [
+            "Software Developer Intern at a product-based start-up with about 10 employees, on 2 different projects in teams of 2 – 3, mainly Android Applications in Java focusing on Bluetooth APIs",
+            "Internship as a part of the Practice School program of BITS Pilani University to provide students with an opportunity to work on industry projects, under the guidance of professional experts"
+        ]
+    },
+    {
+        "id": 1,
+        "job_title": "Software Developer",
+        "company_name": "BeeHyv Software Solutions Pvt Ltd",
+        "company_location": "Hyderabad, India",
+        "company_url": "https://beehyv.com/",
+        "start_date": "Aug 2016",
+        "end_date": "Apr 2018",
+        "description": [
+            "Full-stack developer at a product-based software company with about 70 employees", 
+            "Worked on 3 different projects in teams of 3 – 6, using skills from different domains such as web apps (Angular 5, Spring, Hibernate, GCP) and mobile apps (Android Development)",
+            "Mentor a new employee to train them and get them started with their tasks"
+        ]
+    }
+]

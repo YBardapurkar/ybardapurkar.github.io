@@ -13,8 +13,8 @@ class PersonalInfo extends Component {
                     <h2 className="heading sr-only">Basic Information</h2>
                     <div className="content">
                         <ul className="list-unstyled">
-                            <li><FaMapMarkerAlt class="icon" /><span className="sr-only">Location:</span>Arlington, TX</li>
-                            <li><FaEnvelope class="icon"/><span className="sr-only">Email:</span><a href="mailto:ybardapurkar@gmail.com">ybardapurkar@gmail.com</a></li>
+                            <li><FaMapMarkerAlt className="icon" /><span className="sr-only">Location:</span>Arlington, TX</li>
+                            <li><FaEnvelope className="icon"/><span className="sr-only">Email:</span><a href="mailto:ybardapurkar@gmail.com">ybardapurkar@gmail.com</a></li>
                         </ul>
                     </div>
                 </div>
