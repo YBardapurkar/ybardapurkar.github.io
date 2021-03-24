@@ -1,0 +1,111 @@
+[
+    {
+        "id": 0,
+        "title": "HITCH Android Application",
+        "image": "./projects/project-hitch.jpg",
+        "description": [
+            "‘Hitch’ is a Bluetooth based tag, whose proximity to the user can be tracked using an Android application",
+            "Create the initial Android application in Java to register and connect to ‘Hitch’ devices",
+            "Create tracking algorithms to keep track of device location and signal strength, and alert the user accordingly"
+        ],
+        "links": []
+    },
+    {
+        "id": 1,
+        "title": "Web Data Management Project – ‘SayItRight’ Events Organization Web App",
+        "image": "./projects/project-wdm.png",
+        "description": [
+            "To create a responsive web application where users with different access types can create ‘Events’ as well as RSVP to existing events (like Facebook Events)",
+            "Development using HTML, CSS, JavaScript, Bootstrap, PHP, CodeIgniter, MySQL, and WordPress",
+            "Create tracking algorithms to keep track of device location and signal strength, and alert the user accordingly"
+        ],
+        "links": [
+            {
+                "id": 0,
+                "type": "external",
+                "label": "Demo",
+                "url": "https://yashbardapurkar.uta.cloud/sayitright"
+            },
+            {
+                "id": 1,
+                "type": "github",
+                "label": "GitHub",
+                "url": "https://github.com/YBardapurkar/WDM_Assignment"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "UTA MAC Facility Maintenance Ticketing System",
+        "image": "./projects/project-ase.png",
+        "description": [
+            "Lead a team of 5 to create a maintenance ticketing system for the UTA Maverick Activity Center (MAC), and perform unit testing and integration testing on the complete web application",
+            "Development using Java, Spring MVC, JSP, JDBC and MySQL, Unit testing using JUnit, JaCoCo and PIT Mutation testing tool, and Integration testing using Selenium with Java"
+        ],
+        "links": [
+            {
+                "id": 0,
+                "type": "github",
+                "label": "GitHub",
+                "url": "https://github.com/YBardapurkar/ASE_Assignment"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Data Mining Project - Movie Search and Classifier",
+        "image": "https://ybardapurkar.github.io/Data_Mining_Project/images/search.PNG",
+        "description": [
+            "Implement a search engine and classifier for movies using the MovieLens dataset, and image captioner and image caption search engine using MS-COCO 2014 dataset",
+            "Project was implemented from scratch in Python, using NumPy and NLTK libraries, and hosted using Flask"
+        ],
+        "links": [
+            {
+                "id": 0,
+                "type": "external",
+                "label": "Demo",
+                "url": "https://ybardapurkar.pythonanywhere.com/"
+            },
+            {
+                "id": 1,
+                "type": "info",
+                "label": "Project Proposal",
+                "url": "https://ybardapurkar.github.io/Data_Mining_Project/project-proposal.html"
+            },
+            {
+                "id": 2,
+                "type": "github",
+                "label": "GitHub",
+                "url": "https://github.com/YBardapurkar/Data_Mining_Project/"
+            },
+            {
+                "id": 3,
+                "type": "youtube",
+                "label": "Demo Video",
+                "url": "https://youtu.be/w62vYHwzs98"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "SE 1 Project - CampusCarRental Android Application",
+        "image": "./projects/project-campuscarrental.png",
+        "description": [
+            "Lead a team of 6 to design and create a Car Rental Android application that lets the users rent a car, by following the Software Engineering principles learned in class"
+        ],
+        "links": [
+            {
+                "id": 0,
+                "type": "github",
+                "label": "GitHub",
+                "url": "https://github.com/YBardapurkar/SE1_Project/"
+            },
+            {
+                "id": 1,
+                "type": "youtube",
+                "label": "Demo Video",
+                "url": "https://youtu.be/-qqv9Q6gr-8"
+            }
+        ]
+    }
+]
