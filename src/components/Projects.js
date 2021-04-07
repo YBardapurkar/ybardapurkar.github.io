@@ -20,7 +20,8 @@ class Projects extends Component {
 										title={project.title}
 										image={project.image}
 										description={project.description}
-										links={project.links} />
+										links={project.links}
+										tags={project.tags} />
 								)
 							})
 						}
@@ -62,7 +63,7 @@ class ProjectItem extends Component {
 								})
 							}
 						</p>
-						{/* <p className="tags-row">
+						<p className="tags-row">
 							{
 								this.props.tags.map((tag) => {
 									return (
@@ -72,7 +73,7 @@ class ProjectItem extends Component {
 									)
 								})
 							}
-						</p> */}
+						</p>
 					</div>
 				</div>
 			</div>
