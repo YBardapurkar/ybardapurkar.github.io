@@ -8,7 +8,8 @@
             "Create the initial Android application in Java to register and connect to ‘Hitch’ devices",
             "Create tracking algorithms to keep track of device location and signal strength, and alert the user accordingly"
         ],
-        "links": []
+        "links": [],
+        "tags": ["android", "java"]
     },
     {
         "id": 1,
@@ -31,8 +32,15 @@
                 "type": "github",
                 "label": "GitHub",
                 "url": "https://github.com/YBardapurkar/WDM_Assignment"
+            },
+            {
+                "id": 2,
+                "type": "github",
+                "label": "GitHub (with CodeIgniter)",
+                "url": "https://github.com/YBardapurkar/WDM_CodeIgniter_Assignment"
             }
-        ]
+        ],
+        "tags": ["html", "css", "bootstrap", "javascript", "php", "sql", "wordpress"]
     },
     {
         "id": 2,
@@ -49,7 +57,8 @@
                 "label": "GitHub",
                 "url": "https://github.com/YBardapurkar/ASE_Assignment"
             }
-        ]
+        ],
+        "tags": ["html", "java", "sql", "servlets", "junit", "selenium"]
     },
     {
         "id": 3,
@@ -84,7 +93,8 @@
                 "label": "Demo Video",
                 "url": "https://youtu.be/w62vYHwzs98"
             }
-        ]
+        ],
+        "tags": ["html", "css", "python", "flask", "numpy", "data mining", "naive bayes"]
     },
     {
         "id": 4,
@@ -106,6 +116,7 @@
                 "label": "Demo Video",
                 "url": "https://youtu.be/-qqv9Q6gr-8"
             }
-        ]
+        ],
+        "tags": ["android", "java", "sql"]
     }
 ]

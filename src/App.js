@@ -28,7 +28,8 @@ class App extends Component {
 							label: "",
 							url: ""
 						},
-					]
+					],
+					tags: []
 				},
 			],
 			experience: [
@@ -77,20 +78,20 @@ class App extends Component {
 		fetch('./projects_data.json')
 			.then(response => response.json())
 			.then(result => {
-				result.reverse()
+				result.reverse();
 				this.setState({
 					projects: result
-				})
-			})
+				});
+			});
 		// experience
 		fetch('./experience_data.json')
 			.then(response => response.json())
 			.then(result => {
-				result.reverse()
+				result.reverse();
 				this.setState({
 					experience: result
-				})
-			})
+				});
+			});
 	}
 }
 

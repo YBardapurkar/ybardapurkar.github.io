@@ -17,8 +17,12 @@
   color: #5f6b77;
 }
 
+.projects .item .img-div {
+  text-align: center;
+}
+
 .projects .item .project-image {
-  height: 200px;
+  max-height: 170px;
   width: auto;
 }
 
@@ -43,4 +47,15 @@ body {
     font-size: 16px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+}
+
+/* Tags */
+.tags-row {
+  text-align: right;
+}
+.tag-body {
+  font-size: 12px;
+  background-color: #e1ecf4;
+  padding: 4px;
+  margin: 1px;
 }

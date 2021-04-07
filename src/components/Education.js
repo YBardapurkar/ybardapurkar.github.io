@@ -18,7 +18,7 @@ class Education extends Component {
                             <h3 className="title"><FaGraduationCap className="icon" /> MS - Computer Science</h3>
                             <h4 className="university">
                                 <a href="https://www.uta.edu/" target="_blank" rel="noopener noreferrer">University of Texas at Arlington</a>
-                                <span className="year"> (2019 - Present)</span>
+                                <span className="year"> (Jan 2019 - May 2021 Expected)</span>
                             </h4>
                         </div>
                         <div className="item">

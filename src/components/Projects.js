@@ -37,7 +37,7 @@ class ProjectItem extends Component {
 			<div className="item">
 				<hr />
 				<div className="row">
-					<div className="col-md-4 col-12">
+					<div className="img-div col-md-4 col-12">
 						<img className="img-fluid project-image" src={this.props.image} alt={this.props.title} />
 					</div>
 					<div className="desc col-md-8 col-12">
@@ -62,6 +62,17 @@ class ProjectItem extends Component {
 								})
 							}
 						</p>
+						{/* <p className="tags-row">
+							{
+								this.props.tags.map((tag) => {
+									return (
+										<Tag 
+											name={tag} 
+											key={this.props.tags.indexOf(tag)} />
+									)
+								})
+							}
+						</p> */}
 					</div>
 				</div>
 			</div>
@@ -92,6 +103,18 @@ class ProjectLink extends Component{
 						this.renderLink(this.props.type)
 					}
 				</a>
+			</span>
+		)
+	}
+}
+
+class Tag extends Component {
+	render() {
+		return (
+			<span 
+				className="tag-body" 
+				onClick={e => this.props.onFilterSelect(this.props.name)} >
+					{this.props.name}
 			</span>
 		)
 	}
