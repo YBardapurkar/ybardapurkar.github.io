@@ -18,17 +18,17 @@ class Skills extends Component {
                             <div className="item">
                                 <hr />
                                 Tools
-                                <h3 className="level-title">Android SDK, Selenium</h3>
+                                <h3 className="level-title">Android SDK, Selenium, Git</h3>
                             </div>
                             <div className="item">
                                 <hr />
                                 Frameworks
-                                <h3 className="level-title">React, CodeIgniter (PHP), Flask (Python), Spring MVC (Java)</h3>
+                                <h3 className="level-title">React, Node.js, CodeIgniter (PHP), Flask (Python), Spring MVC (Java)</h3>
                             </div>
                             <div className="item">
                                 <hr />
                                 Cloud Platforms
-                                <h3 className="level-title">AWS, Microsoft Azure, IBM Cloud</h3>
+                                <h3 className="level-title">AWS, Microsoft Azure, Firebase, Heroku</h3>
                             </div>
                         </div>              
                     </div>
